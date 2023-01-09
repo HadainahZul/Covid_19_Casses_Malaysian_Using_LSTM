@@ -12,4 +12,4 @@ The graph shown below, is a graph that showing the predicted and actual covid ca
 
 GitHub - MoH-Malaysia/covid19-public: Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.
 
-MoH-Malaysia, covid19-public, 2023, https://github.com/MoH-Malaysia/covid19-public
+ MoH-Malaysia, covid19-public, 2023, https://github.com/MoH-Malaysia/covid19-public
