@@ -1,4 +1,12 @@
 # Covid_19_Casses_Malaysian
+
+Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus. Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some will become seriously ill and require medical attention.
+
+Some information:
+1. The full dataset is in dataset folder
+2. Tensorboard folder --> graph from tensorboard
+3. Performance model
+
  
 Architecture of the model(model.png) :
 
