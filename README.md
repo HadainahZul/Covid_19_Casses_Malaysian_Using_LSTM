@@ -1,6 +1,6 @@
 # Covid_19_Casses_Malaysian
  
-Architecture of the model :
+Architecture of the model(model.png) :
 
 ![model](https://user-images.githubusercontent.com/88734356/211263445-7fbf3573-a4fc-40da-a94b-2c8f69594517.png)
 
