@@ -6,4 +6,9 @@ Architecture of the model(model.png) :
 
 The graph shown below, is a graph that showing the predicted and actual covid cases:
 
-![Predicted and Actual Covid](https://user-images.githubusercontent.com/88734356/211263333-ec697f8f-cac0-40df-8a21-68b39a6934db.png)
+![Predicted and Actual Covid](https://user-images.githubusercontent.com/88734356/211267140-94f7e3f8-8994-49c9-92ee-ebed2b43ec1a.png)
+
+# Citation
+
+GitHub - MoH-Malaysia/covid19-public: Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.
+MoH-Malaysia, covid19-public, 2023, https://github.com/MoH-Malaysia/covid19-public
